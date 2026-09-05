@@ -1,0 +1,9 @@
+{
+  "name": "ASTRA-AI",
+  "description": "AUTONOMOUS SPACE TRAFFIC RISK & 
+GOVERNANCE INTELLIGENCEm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
