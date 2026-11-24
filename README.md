@@ -84,7 +84,27 @@ ASTRA-AI/
 ASTRA-AI aims to improve Space Traffic Management by integrating Artificial Intelligence with real-time analytics, enabling faster decision-making for satellite operations, orbital risk assessment, disaster intelligence, and governance monitoring.
 
 ## Developer
+MIT License
 
-**Project Title**
+Copyright (c) 2026 Shaik Sadhik
 
-**ASTRA-AI: Autonomous Space Traffic Risk & Governance Intelligence**
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+**Project Title**: **ASTRA-AI: Autonomous Space Traffic Risk & Governance Intelligence**
+**Copyright Owner**: **Shaik Sadhik**
